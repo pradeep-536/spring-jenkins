@@ -18,7 +18,7 @@ class SpringJenkinsApplicationTests {
 	
 	@Test
 	void contextLoads() {
-		logger.info("contextLoads test...");
+		logger.info("Test...");
 		Assertions.assertTrue(true);
 	}
 
